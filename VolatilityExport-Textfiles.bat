@@ -1,6 +1,6 @@
 ::user-friendly Volatility dump batch script
 ::dependencies- Python 2.7 or 3 and Volatility
-::Author- t0rt3rra
+::Author- jjeonda   https://github.com/jjeon-da
 ::
 ::
 :: turns off display
